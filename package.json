@@ -1,0 +1,22 @@
+{
+  "name": "chuck-chuk",
+  "version": "1.0.0",
+  "description": "chuck-chukinoris",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u0016echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiamSvahn/chuck-chuk.git"
+  },
+  "keywords": [
+    "\u0016["
+  ],
+  "author": "\"promise\",",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiamSvahn/chuck-chuk/issues"
+  },
+  "homepage": "https://github.com/LiamSvahn/chuck-chuk#readme"
+}
